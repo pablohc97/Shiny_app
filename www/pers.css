@@ -1,0 +1,33 @@
+body {
+    font-weight: 200;
+    background-color: #bdbdbdc2;
+    color: #3c8dbc;
+}
+
+@media (min-width: 768px)
+
+.navbar-header {
+    float: left;
+    background-color: #80b5d4;
+}
+
+.navbar {
+    position: relative;
+    min-height: 40px;
+    margin-bottom: 18px;
+    border: 1px solid transparent;
+    background-color: #4F91B6;
+}
+
+
+.box.box-solid.box-warning>.box-header {
+    color: #fff;
+    background: #54b4da;
+    background-color: #337ab7;
+}
+
+.box.box-solid.box-warning {
+    border: 1px solid #337ab7;
+}
+
+
