@@ -1,7 +1,7 @@
 # Shiny_app
 
-Creación de una app a traves de la [librería Shiny](https://shiny.rstudio.com/) de R. La app se encuentra alojada en el siguiente servirdor:
+Creation of an app through the [Shiny R library](https://shiny.rstudio.com/). The app is hosted on the following server:
 
 https://pahercauv.shinyapps.io/Visualizaion/
 
-La app esta preparada para su uso con el archivo PredicionesMaquinas.RData
+The app is prepared for use with the PredicionesMaquinas.RData file.
