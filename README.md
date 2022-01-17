@@ -4,4 +4,4 @@ Project for the Advanced Data Visualization subject of the Master in Data Scienc
 
 https://pahercauv.shinyapps.io/Visualizaion/
 
-The app is prepared for use with the PredicionesMaquinas.RData file.
+The app is prepared to be used with the PredicionesMaquinas.RData file so that to use the app, the correct file has to be upload.
